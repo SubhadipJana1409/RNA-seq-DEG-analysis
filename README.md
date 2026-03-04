@@ -1,5 +1,5 @@
 # Day 19 — Differential Gene Expression Analysis
-### 🧬 30 Days × 30 Unique Projects | Subhadip Jana
+### Subhadip Jana
 
 **Dataset:** GSE71562 — E. coli K-12 MG1655 (REAL data from NCBI GEO)
 **Comparison:** Condition A vs Condition C
